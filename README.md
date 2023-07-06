@@ -23,3 +23,5 @@ unplug-usb <vusb-uuid>
 ```
 
 You can list all physical USB devices available and get their UUIDs with `xe pusb-list`.
+
+This was forked from [gpoole gist]{https://gist.github.com/gpoole/c89807e9de9cb5c87bbcc2da27e0c3e4} 
